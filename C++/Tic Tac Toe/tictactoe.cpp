@@ -168,7 +168,48 @@ int main() {
 
                }    /********/
 
-               // break out of switch statement to start game as guest
-
+               // break out of 
+               // switch statement 
+               // start game as guest
+               if (guestPlayer)
+                    break;
                
+               player1User = user;
+               cout << endl;
+
+               display(*user);
+               system("pause");
+               break;
+          }
+          case 2: 
+          {
+               string newAccount;
+               accountInfo* user = new accountInfo;
+
+               cout << "WELCOME NEW PLAYER!\n"
+                       "Username: ";
+               cin >> newAccount;
+
+               // check if username is taken
+               accountInfo* test = findUser(list, newAccount);
+
+               while (test != 0 && newAccount.compare("-1") != 0) {
+                    cout << "USERNAME IS TAKEN :C\n"
+                            "please try again or enter -1 to play as guest";
+                    player1User = &guest1;
+                    break;
+               }
+               user->name = newAccount;
+
+               cout << "\n Password: ";
+               cin >> user->password;
+
+               cout << "\n Email: ";
+               cin >> user->email;
+
+               // start counter for wins, losses, and draws
+               user->wins = user->losses = user->draws = 0;
+               cout << endl;
+               
+
 }
