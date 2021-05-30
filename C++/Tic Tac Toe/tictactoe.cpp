@@ -10,6 +10,7 @@ using namespace std;
 /*
   account info
                */
+
 struct account {
      string name,
           password,
@@ -60,3 +61,63 @@ void readUsersFromFile(account&, fstream&);
 void writeUsersToFile(account&, fstream&);
 account* findUser(accountInfo&, string);
 void display(const account&);
+
+int main() {
+     // naming players
+     guest1.name = "Player 1"; 
+     guest2.name = "Player 2";
+
+     accountInfo list;
+     
+     // create txt file that holds 
+     // users, then extract the number
+     // of accounts in file starting at
+     // the first line and using it to
+     // detect the end of file
+     fstream file("users.txt" ios::in);
+     file >> accountNum;
+     file.ignore();
+
+     // read the number stored in accountNum and read
+     // all the user names of current account
+     for (int count = 0; count < accountNum; count++) {
+          accountInfo user;
+          readUsersFromFile(user, file);
+          list.push_back(user); // stores user in list
+     }
+
+     file.close(); // close file
+
+     // menu options
+     int userChoice = 0,
+          userChoiceSize;
+     string username,
+            password;
+
+     // title 
+     string title[3] = { "::::::::::: ::::::::::: ::::::::       ::::::::::: :::      ::::::::       ::::::::::: ::::::::  :::::::::: \n"
+                         "    :+:         :+:    :+:    :+:          :+:   :+: :+:   :+:    :+:          :+:    :+:    :+: :+:        \n"
+                         "    +:+         +:+    +:+                 +:+  +:+   +:+  +:+                 +:+    +:+    +:+ +:+        \n"
+                         "    +#+         +#+    +#+                 +#+ +#++:++#++: +#+                 +#+    +#+    +:+ +#++:++#   \n"
+                         "    +#+         +#+    +#+                 +#+ +#+     +#+ +#+                 +#+    +#+    +#+ +#+        \n"
+                         "    #+#         #+#    #+#    #+#          #+# #+#     #+# #+#    #+#          #+#    #+#    #+# #+#        \n"
+                         "    ###     ########### ########           ### ###     ###  ########           ###     ########  ########## \n" 
+                       };
+
+
+     while (userChoice != 4) {
+          // display title
+          for (int i = 0; i < 3; i++)
+               cout << title[i];
+     
+          cout << endl;
+
+          cout << "Welcome, choose an option to continue !\n"
+                  "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
+                  "1. Login\n"
+                  "2. Sign up\n"
+                  "3. Play as a guest\n"
+                  "4. QUIT\n\n";
+          cin >> userChoice;
+     }
+}
