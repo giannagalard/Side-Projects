@@ -120,4 +120,55 @@ int main() {
                   "4. QUIT\n\n";
           cin >> userChoice;
      }
+
+     /* 
+        1 Player
+                 */
+
+     switch(userChoice)
+          case 1: // prompt for username
+          {
+               bool guestPlayer = false;
+               accountInfo* user;
+               
+               while (true) {
+                    cout << "\n Username: ";
+                    cin >> username;
+                    cin.ignore();
+
+                    // search for existing user in txt
+                    user = findUser(list, username);
+
+                    while (user == 0 && username.compare("-1") != 0) {
+                         // if user not found display error and reprompt
+                         cout << "ERROR - USER NOT FOUND\n"
+                                 "Please try again or enter -1 to play as guest\n\n";
+                         cin >> username;
+                         user = findUser(list, username)
+                    }
+                              if (username.compare("-1") == 0) {
+                                   cout << "\n WELCOME GUEST \n";
+                                   player1User = &guest1;
+                                   guestPlayer = true;
+                                   break; // exit outer loop
+                              }
+                         
+                    cout << "\n Password: ";
+                    cin >> password;
+
+                    // if correct password is entered exit loop
+                    while (password.compare(user->password) == 0)
+                         break;
+
+                    // if password is incorrect, reprompt user
+                    cout << "ERROR - INCORRECT PASSWORD\n"
+                            "   Please try again!\n";
+                    cin >> password;
+                    cin.ignore(); 
+
+               }    /********/
+
+               // break out of switch statement to start game as guest
+
+               
 }
