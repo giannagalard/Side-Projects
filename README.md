@@ -20,7 +20,7 @@
 :black_small_square: [𝚂𝚗𝚊𝚔𝚎 𝙶𝚊𝚖𝚎](https://github.com/giannagalard/Personal-Projects/blob/main/C%2B%2B/Snake%20Game.cpp)
 
 ## 𝗛𝗧𝗠𝗟 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_24x24.png"/>  
-:black_small_square: [𝙼𝚎𝚊𝚕 𝙿𝚛𝚎𝚙](https://github.com/giannagalard/Personal-Projects/tree/main/HTML/Meal%20Prep)  
+:black_small_square: [𝙼𝚎𝚊𝚕 𝙿𝚛𝚎𝚙](https://github.com/giannagalard/Side-Projects/tree/main/HTML/Meal%20Prep)  
 
 ## 𝗝𝗔𝗩𝗔 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_24x24.png"/>  
 :black_small_square: [𝙻𝚎𝚝𝚝𝚎𝚛 𝙶𝚛𝚊𝚍𝚎](https://github.com/giannagalard/Personal-Projects/blob/main/Java/LetterGrade.java)  
