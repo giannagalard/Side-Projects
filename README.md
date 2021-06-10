@@ -15,19 +15,19 @@
 ```
 
 ## 𝗖++ <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png"/>
-:black_small_square: [𝙲𝚘𝚏𝚏𝚎𝚎 𝚂𝚑𝚘𝚙](https://github.com/giannagalard/Personal-Projects/blob/main/C%2B%2B/Coffee%20Shop.cpp)     
-:black_small_square: [𝙻𝚎𝚊𝚙 𝚈𝚎𝚊𝚛](https://github.com/giannagalard/Personal-Projects/tree/main/C%2B%2B/Leap%20Year)   
-:black_small_square: [𝚂𝚗𝚊𝚔𝚎 𝙶𝚊𝚖𝚎](https://github.com/giannagalard/Personal-Projects/blob/main/C%2B%2B/Snake%20Game.cpp)
+:black_small_square: [𝙲𝚘𝚏𝚏𝚎𝚎 𝚂𝚑𝚘𝚙](https://github.com/giannagalard/Side-Projects/blob/main/C%2B%2B/Coffee%20Shop.cpp)     
+:black_small_square: [𝙻𝚎𝚊𝚙 𝚈𝚎𝚊𝚛](https://github.com/giannagalard/Side-Projects/tree/main/C%2B%2B/Leap%20Year)   
+:black_small_square: [𝚂𝚗𝚊𝚔𝚎 𝙶𝚊𝚖𝚎](https://github.com/giannagalard/Side-Projects/blob/main/C%2B%2B/Snake%20Game.cpp)
 
 ## 𝗛𝗧𝗠𝗟 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_24x24.png"/>  
-:black_small_square: [𝙼𝚎𝚊𝚕 𝙿𝚛𝚎𝚙](https://github.com/giannagalard/Personal-Projects/tree/main/HTML/Meal%20Prep)  
+:black_small_square: [𝙼𝚎𝚊𝚕 𝙿𝚛𝚎𝚙](https://github.com/giannagalard/Side-Projects/tree/main/HTML/Meal%20Prep)  
 
 ## 𝗝𝗔𝗩𝗔 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_24x24.png"/>  
-:black_small_square: [𝙻𝚎𝚝𝚝𝚎𝚛 𝙶𝚛𝚊𝚍𝚎](https://github.com/giannagalard/Personal-Projects/blob/main/Java/LetterGrade.java)  
+:black_small_square: [𝙻𝚎𝚝𝚝𝚎𝚛 𝙶𝚛𝚊𝚍𝚎](https://github.com/giannagalard/Side-Projects/blob/main/Java/LetterGrade.java)  
 
 ## 𝐉𝐀𝐕𝐀 𝐒𝐂𝐑𝐈𝐏𝐓 <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript_24x24.png"/>  
 :black_small_square: [𝙲𝚘𝚞𝚗𝚝𝚎𝚛 𝙰𝚙𝚙](https://github.com/giannagalard/Side-Projects/tree/main/Java%20Script/Counter%20App)  
 
 ## 𝗣𝗬𝗧𝗛𝗢𝗡 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_24x24.png"/>
-:black_small_square: [𝙿𝚘𝚔𝚎𝚂𝚝𝚘𝚙](https://github.com/giannagalard/Personal-Projects/blob/main/Python/PokeStop.py)   
-:black_small_square: [𝚁𝚘𝚌𝚔 𝙿𝚊𝚙𝚎𝚛 𝚂𝚌𝚒𝚜𝚜𝚘𝚛𝚜!](https://github.com/giannagalard/Personal-Projects/blob/main/Python/Rock%20Paper%20Scissors.py)
+:black_small_square: [𝙿𝚘𝚔𝚎𝚂𝚝𝚘𝚙](https://github.com/giannagalard/Side-Projects/blob/main/Python/PokeStop.py)   
+:black_small_square: [𝚁𝚘𝚌𝚔 𝙿𝚊𝚙𝚎𝚛 𝚂𝚌𝚒𝚜𝚜𝚘𝚛𝚜!](https://github.com/giannagalard/Side-Projects/blob/main/Python/Rock%20Paper%20Scissors.py)
