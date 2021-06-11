@@ -2,7 +2,6 @@
 
 ## How to use
 1. Clone the project to your computer   
-	`$ git clone https://github.com/giannagalard/Side-Projects.git `  
 	
 2. Install `pip3` and the requirements   
 	`$ sudo apt-get install python3-pip  `    
