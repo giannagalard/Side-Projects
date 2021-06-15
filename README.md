@@ -29,6 +29,8 @@
 :black_small_square: [𝙲𝚘𝚞𝚗𝚝𝚎𝚛 𝙰𝚙𝚙](https://github.com/giannagalard/Side-Projects/tree/main/Java%20Script/Counter%20App)  
 
 ## 𝗣𝗬𝗧𝗛𝗢𝗡 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_24x24.png"/>
+:black_small_square: [𝙲𝚊𝚝 𝚂𝚒𝚖𝚞𝚕𝚊𝚝𝚘𝚛](https://github.com/giannagalard/Side-Projects/blob/main/Python/Cat%20Simulator.py)   
 :black_small_square: [𝙿𝚘𝚔𝚎𝚂𝚝𝚘𝚙](https://github.com/giannagalard/Side-Projects/blob/main/Python/PokeStop.py)   
 :black_small_square: [𝚁𝚘𝚌𝚔 𝙿𝚊𝚙𝚎𝚛 𝚂𝚌𝚒𝚜𝚜𝚘𝚛𝚜!](https://github.com/giannagalard/Side-Projects/blob/main/Python/Rock%20Paper%20Scissors.py)   
-:black_small_square: [𝚃𝚎𝚡𝚝 𝚂𝚙𝚊𝚖𝚖𝚎𝚛](https://github.com/giannagalard/Side-Projects/tree/main/Python/textspammer)
+:black_small_square: [𝚃𝚎𝚡𝚝 𝚂𝚙𝚊𝚖𝚖𝚎𝚛](https://github.com/giannagalard/Side-Projects/tree/main/Python/textspammer)   
+:black_small_square: [𝚃𝚒𝚙 𝙲𝚊𝚕𝚌𝚞𝚕𝚊𝚝𝚘𝚛](https://github.com/giannagalard/Side-Projects/blob/main/Python/Tip%20Calculator.py)
