@@ -24,7 +24,7 @@
 :black_small_square: [𝙻𝚎𝚝𝚝𝚎𝚛 𝙶𝚛𝚊𝚍𝚎](https://github.com/giannagalard/Side-Projects/blob/main/Java/LetterGrade.java)  
 
 ## 𝐉𝐀𝐕𝐀 𝐒𝐂𝐑𝐈𝐏𝐓 <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript_24x24.png"/>  
-:black_small_square: [𝙲𝚘𝚞𝚗𝚝𝚎𝚛 𝙰𝚙𝚙](https://github.com/giannagalard/Side-Projects/tree/main/Java%20Script/Counter%20App)  
+:black_small_square: [𝚋𝚊𝚗𝚔 𝚘𝚏 𝚛𝚎𝚊𝚌𝚝](https://github.com/giannagalard/Side-Projects/tree/main/JavaScript/bank%20of%20react)  
 
 ## 𝗣𝗬𝗧𝗛𝗢𝗡 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_24x24.png"/>
 :black_small_square: [𝙿𝚘𝚔𝚎𝚂𝚝𝚘𝚙](https://github.com/giannagalard/Side-Projects/blob/main/Python/PokeStop.py)   
